@@ -27,7 +27,7 @@ Driven by curiosity, possibility, and a desire to keep learning, coding has chan
 
 ## Projects
 
-The Makers course focused on pair programming, test driven development, agile processes, and learning by doing. You can see my progression throughout the course on Github, but here are a few projects to demonstrate what I learnt:
+The Makers course focused on pair programming, test driven development, agile processes, and learning by doing. You can see my progression throughout the course on [Github](https://github.com/lildann?tab=repositories), but here are a few projects to demonstrate what I learnt:
 
 | Project                      | Description       | Timeframe         | Tech |
 | ---------------------------- | ----------------- | ----------------- | ----------|
