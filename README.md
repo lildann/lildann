@@ -19,7 +19,7 @@ My background and career up until now has been focused on contemporary art. Alwa
 Driven by curiosity, possibility, and a desire to keep learning, coding has given me the ability to switch from a facilitator to a maker. The skills I developed while building exhibitions - problem-solving, working under time-pressure, and communicating across multiple departments - paired with a habit of analysing structures to make them more efficient, are qualities that I bring to a team with energy and positivity. 
 
 
-## Web Development Projects
+## Projects
 
 The Makers course focused on pair programming, test driven development, agile processes, and learning by doing. You can see my progression throughout the course on Github, but here are a few projects to demonstrate what I learnt:
 
