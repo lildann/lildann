@@ -16,7 +16,7 @@ I am a creative and organised full-stack developer. In November 2021 I graduated
 
 My background and career up until now has been focused on contemporary art. Always seeking to look at the world in new ways, collaborate and learn from my peers, I've planned and produced exhibitions in art galleries and museums in Berlin, New York and London.
 
-Driven by curiosity, possibility, and a desire to keep learning, coding has given me the ability to switch from a facilitator to a maker. The skills I developed while building exhibitions - problem-solving, working under time-pressure, and communicating across multiple departments - paired with a habit of analysing structures to make them more efficient, are qualities that I bring to a team with energy and positivity. 
+Driven by curiosity, possibility, and a desire to keep learning, coding has changed my focus and given me the ability to switch from a facilitator to a maker. The skills I developed while building exhibitions - problem-solving, working under time-pressure, and communicating across multiple departments - paired with a habit of analysing structures to make them more efficient, are qualities that I bring to a team with energy and positivity. 
 
 
 ## Projects
