@@ -37,22 +37,23 @@ The Makers course focused on pair programming, test driven development, agile pr
 #### Mission-driven 
 As a founding member of the Gallery Climate Coalition - a charity formed during lockdown to develop a meaningful and industry-specific response to the growing climate crisis - I conducted research and attended board-meetings to deliver this [online resource](https://galleryclimatecoalition.org/) which includes a carbon-calculator tailored to the art world. This has enabled galleries to conduct a yearly carbon report and thus help them reduce the amount of carbon they use by 50% by 2030. It sparked my interest in how tech can solve problems.
 
-In work and while learning, I am motivated by solutions that can make a difference. My idea for a community-focused football app (designed for players outside of its traditional male audience) was chosen and developed for the final engineering project at Makers. Seeing [KickAbout](https://github.com/lildann/kickabout) take shape from me identifying a gap in the market, to being built into an online platform was really exciting. My experience working in creative industries gives me a unique perspective in approaching problems that coding can solve. 
+In work and while learning, I am motivated by solutions that can make a difference. My idea for a community-focused football app (designed for players outside of its traditionally male audience) was chosen and developed for the final engineering project at Makers. Seeing [KickAbout](https://github.com/lildann/kickabout) take shape from identifying a gap in the market, to being built into an online platform was really exciting. My experience working in creative industries gives me a unique perspective in approaching problems that coding can solve. 
 
 
 #### Communication
 As the Exhibitions Manager for a fast-paced gallery with three locations in Central London, communication and building strong working relationships across departments was key to the success of each exhibition. Being promoted consistently throughout my time there was the outcome of analysing and identifying areas for improvement and implementing new methods, such as departmental Trello Boards, and leading agenda-focused meetings. 
 
-For each of the group projects while at Makers, the time we spent in the planning and design stages helped communication and productivity, keeping the team on track and completing the minimum viable product. Using agile processes - such as daily stand-ups and retros - also helped massively. Since finishing the course at Makers, I have become a mentor to three students. Entering a new industry, I appreciate that it can feel daunting, and aim to give advice, encouragement and perspective to fully embrace the intensity of the course.  
+For each of the group projects while at Makers, the time we spent in the planning and design stages helped communication and productivity, keeping the team on track and completing the Minimum Viable Product. Using agile processes - such as daily stand-ups and retros - also helped with communication and general wellbeing. Since finishing the course at Makers, I have become a mentor to three students. Entering a new industry, I appreciate that it can feel daunting, and aim to give advice, encouragement and perspective to fully embrace the intensity of the course.  
 
 
 #### Time Management
 When working for an arts book publisher in Berlin, I proofread non-fiction texts in layout stages - this required a good eye for detail, and the ability to work consistently and methodically when under a time-pressured print deadline. These skills have been helpful while at Makers, and I take pride in writing clear, well-crafted code. 
 
-With the introduction of JavaScript in week 6 of the course, I initially struggled with self-led learning, feeling overwhemed at the material to cover and where to start. By planning my goals for the week, timeboxing my learning, and making time for reflection each day, I've learnt how to maximise productivity, which includes breaks, and get the most out of my learning.  
+With the introduction of JavaScript in week 6 of the course, I initially struggled with self-led learning and where to start with the amount of material to cover. By planning my goals for the week, timeboxing my learning, and making time for reflection each day, I've learnt how to maximise productivity, which includes breaks, and get the most out of my learning.  
 
 
 ## Education
+
 2021 - Full-Stack Engineering Bootcamp, **Makers Academy**<br>
 2021 - Building AI, Intermediate Coding Certificate in Python, **University of Helsinki and Reaktor**<br>
 2021 - Learn Javascript, **Codecademy**<br>
@@ -63,6 +64,7 @@ With the introduction of JavaScript in week 6 of the course, I initially struggl
 2008 - Foundation Diploma in Art and Design: Distinction, **Central Saint Martins**<br>
 2007 - A Levels: Art: (A), English Literature: (A), Psychology: (A)<br>
 2005 - GCSEs: 8 subjects: (A*), 3 subjects: (A)<br>
+
 
 ## Experience
 
@@ -77,18 +79,15 @@ _Exhibitions Manager_
 - Adaptable: flexible with change, encourage new systems, technologies, tools to create better lines of communication 
 - Database Management: Website maintenance and analytics, precise cataloguing or artworks, costs, data
 
-
 **MoMA PS1, New York** (September to December 2014)  
 _Curatorial Internship_
 - Awarded an internship at MoMA PS1's curatorial department, working with international artists on exhibitions and events 
 - Incredible experience living in a new city and working in the epicentre of a leading art institution, I loved adapting to a new environemnt and working in a large team, using my initiative and getting involved
 
-
 **Sternberg Press, Berlin** (July 2013 to August 2014)  
 _Editorial Assistant_
 - Attention to Detail: rigorous proofreading of art texts in layout stages
 - Time Management: careful, precise editing while working to print deadlines
-
 
 **ChertLuedde Galerie, Berlin** (March 2012 to August 2014)  
 _Gallery Co-ordinater_
