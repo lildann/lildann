@@ -18,11 +18,11 @@ My background and career up until now has been focused on contemporary art. Alwa
 
 Driven by curiosity, possibility, and a desire to keep learning, coding has changed my focus, widened my perspective, and enabled me to switch from a facilitator to a maker. The skills I developed while building exhibitions - problem-solving, working to hard deadlines, and communicating across multiple departments - paired with a habit of analysing structures to make them more efficient, are qualities that I bring to a team with energy and positivity. 
 
-**Languages**: Ruby, JavaScript, CSS, SASS, HTML, SQL
-**Frameworks**: Rails, Sinatra
-**Testing**: Rspec, Capybara, Jasmine
-**DBMS**: PostgreSQL, TablePlus
-**Methodologies**: TDD, MVC, Domain Modelling, SOLID principles, Agile process, XP values
+**Languages**: Ruby, JavaScript, CSS, SASS, HTML, SQL <br>
+**Frameworks**: Rails, Sinatra <br>
+**Testing**: Rspec, Capybara, Jasmine <br>
+**DBMS**: PostgreSQL, TablePlus <br>
+**Methodologies**: TDD, MVC, Domain Modelling, SOLID principles, Agile process, XP values <br>
 
 
 ## Projects
