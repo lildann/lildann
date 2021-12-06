@@ -19,9 +19,9 @@ My background and career up until now has been focused on contemporary art. Alwa
 Driven by curiosity, possibility, and a desire to keep learning, coding has given me the ability to switch from a facilitator to a maker. The skills I developed while building exhibitions - problem-solving, working under time-pressure, and communicating across multiple departments - paired with a habit of analysing structures to make them more efficient, are qualities that I bring to a team with energy and positivity. 
 
 
-## Projects
+## Web Development Projects
 
-The Makers course focused on pair programming, test driven development, agile processes, and learning by doing. You can see my progression throughout the course on [Github](https://github.com/lildann/), but here are a few projects to demonstrate what I learnt:
+The Makers course focused on pair programming, test driven development, agile processes, and learning by doing. You can see my progression throughout the course on Github, but here are a few projects to demonstrate what I learnt:
 
 | Project                      | Description       | Timeframe         | Tech |
 | ---------------------------- | ----------------- | ----------------- | ----------|
@@ -56,10 +56,6 @@ With the introduction of JavaScript in week 6 of the course, I initially struggl
 
 2021 - Full-Stack Engineering Bootcamp, **Makers Academy**<br>
 2021 - Building AI, Intermediate Coding Certificate in Python, **University of Helsinki and Reaktor**<br>
-2021 - Learn Javascript, **Codecademy**<br>
-2021 - Testing Ruby with RSpec, **Udemy**<br>
-2021 - Learn to Code with Ruby, **Udemy**<br>
-2021 - Learn Ruby, **Codecademy**<br>
 2011 - Bachelor of Arts: 2.1 English Literature and History of Art, **University of Sussex**<br>
 2008 - Foundation Diploma in Art and Design: Distinction, **Central Saint Martins**<br>
 2007 - A Levels: Art: (A), English Literature: (A), Psychology: (A)<br>
