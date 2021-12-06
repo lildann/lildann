@@ -78,7 +78,7 @@ _Exhibitions Manager_
 **MoMA PS1, New York** (September to December 2014)  
 _Curatorial Internship_
 - Awarded an internship at MoMA PS1's curatorial department, working with international artists on exhibitions and events 
-- Incredible experience living in a new city and working in the epicentre of a leading art institution, I loved adapting to a new environemnt and working in a large team, using my initiative and getting involved
+- Incredible experience living in a new city and working in the epicentre of a leading art institution, I loved adapting to a new environment and working in a large team, using my initiative and getting involved
 
 **Sternberg Press, Berlin** (July 2013 to August 2014)  
 _Editorial Assistant_
@@ -87,10 +87,10 @@ _Editorial Assistant_
 
 **ChertLuedde Galerie, Berlin** (March 2012 to August 2014)  
 _Gallery Co-ordinater_
-- All-Rounder: assisted in the organisation of the gallery’s exhibitions, fairs, projects, and artists’ books, and updated the gallery's archive database, website, press and publications blog
+- All-Rounder: assisted in the organisation of the gallery’s exhibitions, art fairs, projects, and artists’ books, and updated the archive database, website, press and publications blog
 
 
 ## Interests
 
-* I have an enduring interest in art, culture and love going to museums and exhibitions to learn more about the world and challenge my perspective
+* I have an enduring interest in art, culture, and love going to museums and exhibitions to learn more about the world and challenge my perspective
 * I enjoy playing football in the team I started with friends, as well as gardening and being outside - be that on a run around the park or walking in the Lake District
