@@ -3,7 +3,7 @@
 <a href="https://www.codewars.com/users/lildann" target="_blank" rel="noopener noreferrer"> <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="codewars" height="40" width="40"/></a></p>
 
 
-[Web Development Tools](#web) |
+[Tools](#tools) |
 [Projects](#projects) |
 [Skills](#skills) |
 [Education](#education) |
@@ -15,16 +15,16 @@
 
 I am a creative and organised full-stack developer. In November 2021 I graduated from [Makers Academy](#projects) software engineering bootcamp. 
 
-My background and career up until now has been focused on contemporary art. Always seeking to look at the world in new ways, collaborate and learn from my peers, I've planned and produced large-scale exhibitions in art galleries and museums in Berlin, New York and London.
+My background and career up until now has been focused on contemporary art. Always seeking to look at the world in new ways, collaborate, and learn from my peers, I've planned and produced large-scale exhibitions in art galleries and museums in Berlin, New York, and London. 
 
-As an outcome of the pandemic, the art world moved online with digital art fairs, viewing rooms, and exhibitions. With the impetus being speed over innovation, I was intrigued that most of this output sought only to reproduce the basic experience of viewing art on a screen. So I started to talk to artists about the possibility of art and the digital realm, and this led me to my own research and discovery of coding. 
+In reaction to the pandemic, the art world quickly moved online - with the emphasis on haste over innovation, I was intrigued that most of this output sought only to reproduce the basic experience of viewing art on a screen. So I started to talk to artists about the possibilities of art within the digital realm, and this led me to my own research and discovery of coding. 
 
-Driven by curiosity, possibility, and a desire to keep learning, coding has changed my focus, widened my perspective, and enabled me to switch from a facilitator to a maker. The skills I developed while building exhibitions - problem-solving, working to deadlines, and communicating across multiple departments - paired with a habit of analysing structures to make them more efficient, are qualities that I bring to a team with energy and positivity. 
+Driven by curiosity, possibility, and a desire to keep learning, coding has changed my focus, widened my perspective, and enabled me to switch from a facilitator to a maker. The skills I developed while building exhibitions - problem-solving, working to hard deadlines, and communicating across multiple departments - paired with a habit of analysing structures to make them more efficient, are qualities that I bring to a team with energy and positivity. 
 
 I'm interested in the impact code can make on everyday life. As a lover of tech that can disrupt traditions and make each day easier and more fun, I'm excited to work in an industry that can create solutions to the complex problems we face at the moment.
 
 
-## Web Development Tools
+## Tools
 
 **Languages**: Ruby | JavaScript | HTML | CSS | SASS | SQL <br>
 **Frameworks and Environments**: Rails | Sinatra | Node.js <br>
@@ -55,9 +55,9 @@ In work and while learning, I am motivated by solutions that can make a differen
 
 
 #### Planning and Communication 
-As the Exhibitions Manager for a fast-paced gallery with three locations in Central London, communication and building strong working relationships (internally across departments and externally with artists, suppliers, and clients) was key to the success of each exhibition. Being promoted consistently throughout my time there was the outcome of analysing and identifying areas for improvement and implementing new methods, such as departmental Trello Boards, and leading agenda-focused meetings. 
+As the Exhibitions Manager for a fast-paced gallery with three locations in Central London, communication and building strong working relationships (internally across departments and externally with artists, suppliers, and clients) was key to the success of each exhibition. Being promoted consistently throughout my time there was the outcome of analysing and identifying areas for improvement and implementing new methods, such as departmental Trello Boards, and leading agenda-focused meetings, and bringing people together. 
 
-For each of the group projects while at Makers, the time we spent in the planning and design stages helped communication and productivity, keeping the team on track and completing the Minimum Viable Product and expanding to features. Using agile processes - such as daily stand-ups and retros - also helped with communication and general wellbeing. Since finishing the course at Makers, I have become a mentor to three students. Entering a new industry, I appreciate that it can feel daunting, and aim to give advice, encouragement and perspective to fully embrace the intensity of the course.  
+For each of the group projects at Makers, the time we spent in the planning and design stages helped communication and productivity, keeping the team on track and completing the Minimum Viable Product. Using Agile processes - such as daily stand-ups and retros - also helped with motivation and general wellbeing. Since finishing the course at Makers, I have become a mentor to three students. Entering a new industry, I appreciate that it can feel daunting, and aim to give advice, encouragement and perspective to fully embrace the intensity of the course.  
 
 
 #### Time Management and Attention to Detail
@@ -66,10 +66,10 @@ When working for an arts book publisher in Berlin, I proofread non-fiction texts
 With the introduction of JavaScript in week 6 of the course, I initially struggled with self-led learning when faced with the amount of material to cover. By planning my goals for the week, timeboxing my learning, and making time for reflection each day, I've learnt how to maximise productivity, which includes breaks, and get the most out of my learning.  
 
 
-#### Project Delivery
-Working with artists to interpret their vision and plan ambitious projects (such as a [lifesize chess board](https://www.nytimes.com/2016/02/09/t-magazine/art/darren-bader-chess-sadie-coles.html) with humans as pieces, or a replica of Auguste Rodin's sculpture _The Kiss_ recreated in plasticine) has given me an operational skillset, that considers logistic details while maintaining perspective on the timeline and end result. For example [Martine Syms's video-wall installation](https://www.timeout.com/london/art/martine-syms-grand-calme-review) portrayed an AI chat-bot avatar, which the viewer could interact with via text message. This show involved complex AV installation, as well as furniture and floor fabrication, to create an immersive experience for the public. 
+#### Problem Solving
+Working with artists to interpret their vision and plan projects requires an operational skillset, that considers logistical details while maintaining perspective on the timeline and end result. The gallery is known for launching emerging artists' careers with ambitious projects - as the artist liaison for Alvaro Barrington, I co-ordinated his [collaboration with Notting Hill Carnival](https://www.theartnewspaper.com/2019/09/27/throwing-open-the-gallery-doors-the-art-world-darlings-keeping-it-real) to decorate the Socaholic float with his paintings. 
 
-This organised, clear-sighted approach helps in coding when closing the loop, tackling bugs and finding the root cause of blockers.
+Interpreting a brief and building a web app from start to finish is a fundamental aspect of coding that excites me. My organised, clear-sighted approach helps in coding when closing the loop, tackling bugs and finding the root cause of blockers. 
 
 
 ## Education
@@ -112,5 +112,5 @@ _Gallery Co-ordinater_
 
 ## Interests
 
-* I have an enduring interest in art and culture, and love going to museums and exhibitions to learn more about the world and challenge my perspective.
-* I enjoy playing football in the team I started with friends
+* I have an enduring interest in art and culture, and love going to museums and exhibitions to learn more about the world and challenge my perspective, most recently [Paula Rego's](https://www.tate.org.uk/whats-on/tate-britain/exhibition/paula-rego) socio-political portraits at Tate Britain.
+* I enjoy playing football every week in the team I started with friends.
