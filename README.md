@@ -17,7 +17,7 @@ I am a creative and organised full-stack developer. In November 2021 I graduated
 
 My background and career up until now has been focused on contemporary art. Always seeking to look at the world in new ways, collaborate, and learn from my peers, I've planned and produced large-scale exhibitions in art galleries and museums in Berlin, New York, and London. 
 
-In reaction to the pandemic, the art world quickly moved online - with the emphasis on haste over innovation, I was intrigued that most of this output sought only to reproduce the basic experience of viewing art on a screen. So I started to talk to artists about the possibilities of art within the digital realm, and this led me to my own research and discovery of coding. 
+As an outcome of the pandemic, the art world moved quickly online. With the emphasis on haste over innovation, I was intrigued that most of this output sought only to reproduce the basic experience of viewing art through a screen. Talking to artists about the possibilities of art within the digital realm, led me to my own research and discovery of coding. 
 
 Driven by curiosity, possibility, and a desire to keep learning, coding has changed my focus, widened my perspective, and enabled me to switch from a facilitator to a maker. The skills I developed while building exhibitions - problem-solving, working to hard deadlines, and communicating across multiple departments - paired with a habit of analysing structures to make them more efficient, are qualities that I bring to a team with energy and positivity. 
 
