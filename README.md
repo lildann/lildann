@@ -35,7 +35,7 @@ I'm interested in the impact code can make on everyday life. As a lover of tech 
 
 ## Projects
 
-The Makers course focused on pair programming, test driven development, agile processes, and learning by doing. You can see my progression throughout the course on [Github](https://github.com/lildann?tab=repositories), but here are a few projects to demonstrate what I learnt:
+The Makers course focused on pair programming, test driven development, Agile processes, and learning by doing. You can see my progression throughout the course on [Github](https://github.com/lildann?tab=repositories), but here are a few projects to demonstrate what I learnt:
 
 | Project                      | Description       | Timeframe         | Tech |
 | ---------------------------- | ----------------- | ----------------- | ----------|
@@ -74,10 +74,10 @@ Interpreting a brief and building a web app from start to finish is a fundamenta
 
 ## Education
 
-2021 | Full-Stack Engineering Bootcamp, **Makers Academy**<br>
-2021 | Building AI, Intermediate Coding Certificate in Python, **University of Helsinki and Reaktor**<br>
-2011 | Bachelor of Arts: 2.1 English Literature and History of Art, **University of Sussex**<br>
-2008 | Foundation Diploma in Art and Design: Distinction, **Central Saint Martins**<br>
+2021 | Full-Stack Engineering Bootcamp - **Makers Academy** (remote) <br> 
+2021 | Building AI, Intermediate Coding Certificate in Python - **University of Helsinki and Reaktor** (online) <br>
+2011 | Bachelor of Arts: 2.1 English Literature and History of Art - **University of Sussex**, Brighton<br>
+2008 | Foundation Diploma in Art and Design: Distinction - **Central Saint Martins**, London<br>
 2007 | A Levels: Art: (A), English Literature: (A), Psychology: (A)<br>
 2005 | GCSEs: 8 subjects: (A*), 3 subjects: (A)<br>
 
