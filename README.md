@@ -73,7 +73,7 @@ With the introduction of JavaScript in week 6 of the course, I initially struggl
 **Sadie Coles HQ, London** (January 2015 to May 2021)  
 _Exhibitions Manager_
 - Problem Solving: calm and resourceful when faced with the diverse range of challenges that arise during the planning, production and installation of exhibitions
-- Team Player: managed inter-departmental exhibition meetings, co-ordinated 
+- Team Player: managed inter-departmental exhibition meetings
 - Communicator: ensured information is shared and discussed, highlighting areas to troubleshoot
 - Planner: logistics, timelines, budget management
 - People Person: Artist liaison and external production contract negotiation
