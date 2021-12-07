@@ -20,11 +20,11 @@ Driven by curiosity, possibility, and a desire to keep learning, coding has chan
 
 I'm interested in the impact code can make on everyday life. As a lover of tech that can disrupt traditions and make each day easier and more fun, I'm excited to work in an industry that can create solutions to the complex problems we face at the moment.
 
-**Languages**: Ruby, JavaScript, HTML, CSS, SASS, SQL <br>
-**Frameworks and Environments**: Rails, Sinatra, Node.js <br>
-**Testing**: RSpec, Capybara, Jasmine <br>
-**DBMS**: PostgreSQL, TablePlus <br>
-**Methodologies**: BDD, TDD, MVC, Domain Modelling, SOLID principles, Agile processes, XP values <br>
+**Languages**: Ruby | JavaScript | HTML | CSS | SASS | SQL <br>
+**Frameworks and Environments**: Rails| Sinatra | Node.js <br>
+**Testing**: RSpec | Capybara | Jasmine <br>
+**DBMS**: PostgreSQL | TablePlus <br>
+**Methodologies**: BDD | TDD | MVC | Domain Modelling | SOLID principles | Agile processes | XP values <br>
 
 
 ## Projects
