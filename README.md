@@ -57,15 +57,15 @@ For each of the group projects at Makers, the time we spent in the planning and 
 
 
 #### Time Management and Attention to Detail
-When working for an arts book publisher in Berlin, I proofread non-fiction texts in layout stages - this required a good eye for detail, and the ability to work consistently and methodically when under a time-pressured print deadline. These skills have been helpful while at Makers, and I take pride in writing clear, well-crafted code. 
+When working for an arts book publisher in Berlin, I proofread non-fiction texts in layout stages - this required a good eye for detail and the ability to work consistently and methodically when under a time-pressured print deadline. These skills have been helpful while at Makers, and I take pride in writing clear, well-crafted code. 
 
 With the introduction of JavaScript in week 6 of the course, I initially struggled with the amount of material to cover. By planning my goals for the week, timeboxing my learning, and making time for reflection each day, I've learnt how to maximise productivity, which includes breaks, and get the most out of my learning.  
 
 
 #### Problem Solving
-Working with artists to interpret their vision and plan projects requires an operational skillset, that considers logistical details while maintaining perspective on the timeline and end result. The gallery is known for launching emerging artists' careers with ambitious projects - as the artist liaison for Alvaro Barrington, I coordinated his [collaboration with Notting Hill Carnival](https://www.theartnewspaper.com/2019/09/27/throwing-open-the-gallery-doors-the-art-world-darlings-keeping-it-real) to decorate the Socaholic float with his paintings. 
+Working with artists to interpret their vision and plan projects requires an operational skillset, which considers logistical details while maintaining perspective on the timeline and end result. The gallery is known for launching emerging artists' careers with ambitious projects - as the artist liaison for Alvaro Barrington, I coordinated his [collaboration with Notting Hill Carnival](https://www.theartnewspaper.com/2019/09/27/throwing-open-the-gallery-doors-the-art-world-darlings-keeping-it-real) to decorate the Socaholic float with his paintings. 
 
-Interpreting a brief and building a web app from start to finish is a fundamental aspect of coding that excites me. My organised, clear-sighted approach helps in coding when closing the loop, tackling bugs and finding the root cause of blockers. Makers has left me feeling ready to learn new tech stacks and take on new challenges. I am looking forward to becoming a fully-fledged software engineer and continue my learning. 
+Interpreting a brief and building a web app from start to finish is a fundamental aspect of coding that I enjoy. My organised, clear-sighted approach helps in debugging when closing the loop and finding the root cause of blockers. Makers has left me feeling ready to learn new tech stacks and take on new challenges.
 
 
 ## Education
