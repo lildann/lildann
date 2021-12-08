@@ -13,15 +13,11 @@
 
 ## About
 
-I am a creative and organised full-stack developer. In November 2021 I graduated from [Makers Academy](#projects) software engineering bootcamp. 
+I am a creative and organised full-stack developer. In November 2021 I graduated from [Makers Academy](#projects) software engineering bootcamp. My background and career up until now has been focused on contemporary art. Always seeking to look at the world in new ways, collaborate, and learn from my peers, I've planned and produced large-scale exhibitions in art galleries and museums in Berlin, New York, and London.
 
-My background and career up until now has been focused on contemporary art. Always seeking to look at the world in new ways, collaborate, and learn from my peers, I've planned and produced large-scale exhibitions in art galleries and museums in Berlin, New York, and London. 
+As an outcome of the pandemic, the art world moved quickly online - intriguingly, most of this output sought only to reproduce the basic experience of viewing art through a screen. I was interested in how this could be developed, and the world of tech opened up through my research. Driven by curiosity, possibility, and a desire to keep learning, coding has changed my focus, widened my perspective, and enabled me to switch from a facilitator to a maker.
 
-As an outcome of the pandemic, the art world moved quickly online. With the emphasis on haste over innovation, I was intrigued that most of this output sought only to reproduce the basic experience of viewing art through a screen. Talking to artists about the possibilities of art within the digital realm, led me to my own research and discovery of coding. 
-
-Driven by curiosity, possibility, and a desire to keep learning, coding has changed my focus, widened my perspective, and enabled me to switch from a facilitator to a maker. The skills I developed while building exhibitions - problem-solving, working to hard deadlines, and communicating across multiple departments - paired with a habit of analysing structures to make them more efficient, are qualities that I bring to a team with energy and positivity. 
-
-I'm interested in the impact code can make on everyday life. As a lover of tech that can disrupt traditions and make each day easier and more fun, I'm excited to work in an industry that can create solutions to the complex problems we face at the moment.
+The skills I developed while building exhibitions - problem-solving, working to hard deadlines, and communicating across multiple departments - paired with a habit of analysing structures to make them more efficient, are qualities that I bring to a team with energy and positivity. Motivated by the impact code can make on everyday life, I'm excited to work in an industry that can create solutions to the complex problems we currently face.
 
 
 ## Tools
