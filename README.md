@@ -15,7 +15,7 @@
 
 I am a creative and organised full-stack developer. In November 2021 I graduated from [Makers Academy](#projects) software engineering bootcamp. My background and career up until now has been focused on contemporary art. Always seeking to look at the world in new ways, collaborate, and learn from my peers, I've planned and produced large-scale exhibitions in art galleries and museums in Berlin, New York, and London.
 
-As an outcome of the pandemic, the art world moved quickly online - intriguingly, most of this output sought only to reproduce the basic experience of viewing art through a screen. I was interested in how this could be developed, and the world of tech opened up through my research. Driven by curiosity, possibility, and a desire to keep learning, coding has changed my focus, widened my perspective, and enabled me to switch from a facilitator to a maker.
+As an outcome of the pandemic, the art world moved online - intriguingly, most of this output sought only to reproduce the basic experience of viewing art through a screen. I was interested in how this could be developed, and the world of tech opened up through my research. Driven by curiosity, possibility, and a desire to keep learning, coding has changed my focus, widened my perspective, and enabled me to switch from a facilitator to a maker.
 
 The skills I developed while building exhibitions - problem-solving, working to hard deadlines, and communicating across multiple departments - paired with a habit of analysing structures to make them more efficient, are qualities that I bring to a team with energy and positivity. Motivated by the impact code can make on everyday life, I'm excited to work in an industry that can create solutions to the complex problems we currently face.
 
@@ -59,7 +59,7 @@ For each of the group projects at Makers, the time we spent in the planning and 
 #### Time Management and Attention to Detail
 When working for an arts book publisher in Berlin, I proofread non-fiction texts in layout stages - this required a good eye for detail, and the ability to work consistently and methodically when under a time-pressured print deadline. These skills have been helpful while at Makers, and I take pride in writing clear, well-crafted code. 
 
-With the introduction of JavaScript in week 6 of the course, I initially struggled with self-led learning when faced with the amount of material to cover. By planning my goals for the week, timeboxing my learning, and making time for reflection each day, I've learnt how to maximise productivity, which includes breaks, and get the most out of my learning.  
+With the introduction of JavaScript in week 6 of the course, I initially struggled with the amount of material to cover. By planning my goals for the week, timeboxing my learning, and making time for reflection each day, I've learnt how to maximise productivity, which includes breaks, and get the most out of my learning.  
 
 
 #### Problem Solving
