@@ -6,7 +6,7 @@
 
 [Projects](#projects) |
 [Skills](#skills) |
-[Tech Stack](#tech) |
+[Tech Stack](#tech-stack) |
 [Education](#education) |
 [Experience](#experience) |
 [Interests](#interests) 
