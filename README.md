@@ -3,9 +3,10 @@
 <a href="https://www.codewars.com/users/lildann" target="_blank" rel="noopener noreferrer"> <img src="http://www.softlab.ntua.gr/~nickie/images/logo/codewars.png" alt="codewars" height="40" width="40"/></a></p>
 
 
-[Tools](#tools) |
+
 [Projects](#projects) |
 [Skills](#skills) |
+[Tech Stack](#tech) |
 [Education](#education) |
 [Experience](#experience) |
 [Interests](#interests) 
@@ -18,15 +19,6 @@ I am a creative and organised full-stack developer. In November 2021 I graduated
 As an outcome of the pandemic, the art world moved online - intriguingly, most of this output sought only to reproduce the basic experience of viewing art through a screen. I was interested in how this could be developed, and the world of tech opened up through my research. Driven by curiosity, possibility, and a desire to keep learning, coding has changed my focus, widened my perspective, and enabled me to switch from a facilitator to a maker.
 
 The skills I developed while building exhibitions - problem-solving, working to hard deadlines, and communicating across multiple departments - paired with a habit of analysing structures to make them more efficient, are qualities that I bring to a team with energy and positivity. Motivated by the impact code can make on everyday life, I'm excited to work in an industry that can create solutions to the complex problems we currently face.
-
-
-## Tools
-
-**Languages**: Ruby | JavaScript | HTML | CSS | SASS | SQL <br>
-**Frameworks and Environments**: Rails | Sinatra | Node.js <br>
-**Testing**: RSpec | Capybara | Jasmine <br>
-**DBMS**: PostgreSQL | TablePlus <br>
-**Methodologies**: BDD | TDD | MVC | Domain Modelling | SOLID principles | Agile processes | XP values <br>
 
 
 ## Projects
@@ -66,6 +58,15 @@ With the introduction of JavaScript in week 6 of the course, I initially struggl
 Working with artists to interpret their vision and plan projects requires an operational skillset, which considers logistical details while maintaining perspective on the timeline and end result. The gallery is known for launching emerging artists' careers with ambitious projects - as the artist liaison for Alvaro Barrington, I coordinated his [collaboration with Notting Hill Carnival](https://www.theartnewspaper.com/2019/09/27/throwing-open-the-gallery-doors-the-art-world-darlings-keeping-it-real) to decorate the Socaholic float with his paintings. 
 
 Interpreting a brief and building a web app from start to finish is a fundamental aspect of coding that I enjoy. My organised, clear-sighted approach helps in debugging when closing the loop and finding the root cause of blockers. Makers has left me feeling ready to learn new tech stacks and take on new challenges.
+
+
+## Tech Stack
+
+**Languages**: Ruby | JavaScript | HTML | CSS | SASS | SQL <br>
+**Frameworks and Environments**: Rails | Sinatra | Node.js <br>
+**Testing**: RSpec | Capybara | Jasmine <br>
+**DBMS**: PostgreSQL | TablePlus <br>
+**Methodologies**: BDD | TDD | MVC | Domain Modelling | SOLID principles | Agile processes | XP values <br>
 
 
 ## Education
