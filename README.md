@@ -94,8 +94,8 @@ _Exhibitions Manager_
 
 **MoMA PS1, New York** (September to December 2014)  
 _Curatorial Internship_
-- Awarded an internship at MoMA PS1's curatorial department, working with international artists on exhibitions and events 
-- Incredible experience living in a new city and working in the epicentre of a leading art institution, I loved adapting to a new environment and working in a large team, using my initiative and getting involved
+-Driven: awarded competitive internship in the curatorial department, working with international artists on exhibitions
+-Adaptable: incredible experience living in a new city and working in the epicentre of a leading art institution, I loved adapting to a new environment and working in a large team, using my initiative and getting involved
 
 **Sternberg Press, Berlin** (July 2013 to August 2014)  
 _Editorial Assistant_
