@@ -16,7 +16,7 @@
 
 I am a creative and organised full-stack developer. In November 2021 I graduated from [Makers Academy](#projects) software engineering bootcamp. My background and career up until now has been focused on contemporary art. Always seeking to look at the world in new ways, collaborate, and learn from my peers, I've planned and produced large-scale exhibitions in art galleries and museums in Berlin, New York, and London.
 
-As an outcome of the pandemic, the art world moved online - intriguingly, most of this output sought only to reproduce the basic experience of viewing art through a screen. I was interested in how this could be developed, and the world of tech opened up through my research. Driven by curiosity, possibility, and a desire to keep learning, coding has changed my focus, widened my perspective, and enabled me to switch from a facilitator to a maker.
+As an outcome of the pandemic, the art world moved online - intriguingly, most of this output sought only to reproduce the basic experience of viewing art through a screen. I was interested in how this could be developed, and the world of tech opened up through my research. Driven by curiosity and a desire to keep learning, coding has changed my focus, widened my perspective, and enabled me to switch from a facilitator to a maker.
 
 The skills I developed while building exhibitions - problem-solving, working to hard deadlines, and communicating across multiple departments - paired with a habit of analysing structures to make them more efficient, are qualities that I bring to a team with energy and positivity. Motivated by the impact code can make on everyday life, I'm excited to work in an industry that can create solutions to the complex problems we currently face.
 
@@ -72,6 +72,7 @@ Interpreting a brief and building a web app from start to finish is a fundamenta
 ## Education
 
 2021 | Full-Stack Engineering Bootcamp - **Makers Academy** (remote) <br> 
+2021 | Responsive Web Design - **freecodecamp** (online) <br>
 2021 | Building AI, Intermediate Coding Certificate in Python - **University of Helsinki and Reaktor** (online) <br>
 2011 | Bachelor of Arts: 2.1 English Literature and History of Art - **University of Sussex**, Brighton<br>
 2008 | Foundation Diploma in Art and Design: Distinction - **Central Saint Martins**, London<br>
@@ -83,19 +84,19 @@ Interpreting a brief and building a web app from start to finish is a fundamenta
 
 **Sadie Coles HQ, London** (January 2015 to May 2021)  
 _Exhibitions Manager_
-- Problem Solving: calm and resourceful when faced with the diverse range of challenges that arise during the planning, production and installation of exhibitions
+- Problem Solving: calm and resourceful when faced with the diverse range of challenges that arise during the planning, production and installation of over 60 exhibitions
 - Team Player: managed inter-departmental exhibition meetings
 - Communicator: ensured information is shared and discussed, highlighting areas to troubleshoot
 - Planner: logistics, timelines, budget management
-- People Person: Artist liaison and external production contract negotiation
+- People Person: diplomatic artist liaison and external-production contract negotiator
 - Big-Picture Perspective: ambitious on-site and off-site projects, goal-focused 
-- Adaptable: flexible with change, encourage new systems, technologies, tools to create better lines of communication 
+- Flexibility: encourage new systems, technologies and tools to create better lines of communication and efficiency 
 - Database Management: Website maintenance and analytics, precise cataloguing or artworks, costs, data
 
 **MoMA PS1, New York** (September to December 2014)  
 _Curatorial Internship_
--Driven: awarded competitive internship in the curatorial department, working with international artists on exhibitions
--Adaptable: incredible experience living in a new city and working in the epicentre of a leading art institution, I loved adapting to a new environment and working in a large team, using my initiative and getting involved
+- Driven: awarded competitive internship in the curatorial department, working with international artists on exhibitions
+- Adaptable: great experience living in a new city and working in the epicentre of a leading art institution, I loved adapting to a new environment and working in a large team, using my initiative and getting involved
 
 **Sternberg Press, Berlin** (July 2013 to August 2014)  
 _Editorial Assistant_
