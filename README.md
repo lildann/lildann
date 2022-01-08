@@ -14,11 +14,11 @@
 
 ## About
 
-I am a creative and organised full-stack developer. In November 2021 I graduated from [Makers Academy](#projects) software engineering bootcamp. My background and career up until now has been focused on contemporary art. Always seeking to look at the world in new ways, collaborate, and learn from my peers, I've planned and produced large-scale exhibitions in art galleries and museums in Berlin, New York, and London.
+I am a creative and organised full-stack developer, and a recent graduate from [Makers Academy](#projects) software engineering bootcamp. My background and career up until now has been focused on contemporary art. Always seeking to look at the world in new ways, collaborate, and learn from my peers, I've planned and produced large-scale exhibitions in art galleries and museums in Berlin, New York, and London.
 
-As an outcome of the pandemic, the art world moved online - intriguingly, most of this output sought only to reproduce the basic experience of viewing art through a screen. I was interested in how this could be developed, and the world of tech opened up through my research. Driven by curiosity and a desire to keep learning, coding has changed my focus, widened my perspective, and enabled me to switch from a facilitator to a maker.
+As an outcome of the pandemic, the art world moved online - intriguingly, most of this output sought only to reproduce the basic experience of viewing art through a screen. Interested in how this could be developed, the world of tech opened up through my research. Driven by curiosity and a desire to keep learning, coding has changed my focus, widened my perspective, and enabled me to switch from a facilitator to a maker. 
 
-The skills I developed while building exhibitions - problem-solving, working to hard deadlines, and communicating across multiple departments - paired with a habit of analysing structures to make them more efficient, are qualities that I bring to a team with energy and positivity. Motivated by the impact code can make on everyday life, I'm excited to work in an industry that can create solutions to the complex problems we currently face.
+The skills I developed while building exhibitions - problem-solving, working to hard deadlines, and communicating with multiple stakeholders - paired with a habit of analysing structures to make them more efficient, are qualities that I bring to a team with energy and positivity. At Makers, I've learnt processes in line with best industry practices - I take pride in clean, test-driven code and value accessibility and user experience. I'm motivated by the impact code can make on everyday life and I'm excited to work in an industry that can create solutions to the complex problems we currently face.
 
 
 ## Projects
@@ -51,13 +51,13 @@ For each of the group projects at Makers, the time we spent in the planning and 
 #### Time Management and Attention to Detail
 When working for an arts book publisher in Berlin, I proofread non-fiction texts in layout stages - this required a good eye for detail and the ability to work consistently and methodically when under a time-pressured print deadline. These skills have been helpful while at Makers, and I take pride in writing clear, well-crafted code. 
 
-With the introduction of JavaScript in week 6 of the course, I initially struggled with the amount of material to cover. By planning my goals for the week, timeboxing my learning, and making time for reflection each day, I've learnt how to maximise productivity, which includes breaks, and get the most out of my learning.  
+With the introduction of JavaScript in week 6 of the course, I initially struggled with the amount of material to cover. By planning my goals for the week, timeboxing my learning, and making time for reflection each day, I've learnt how to maximise productivity, and get the most out of my learning.  
 
 
-#### Problem Solving
+#### Problem Solving and Working to a Brief
 Working with artists to interpret their vision and plan projects requires an operational skillset, which considers logistical details while maintaining perspective on the timeline and end result. The gallery is known for launching emerging artists' careers with ambitious projects - as the artist liaison for Alvaro Barrington, I coordinated his [collaboration with Notting Hill Carnival](https://www.theartnewspaper.com/2019/09/27/throwing-open-the-gallery-doors-the-art-world-darlings-keeping-it-real) to decorate the Socaholic float with his paintings. 
 
-Interpreting a brief and building a web app from start to finish is a fundamental aspect of coding that I enjoy. My organised, clear-sighted approach helps in debugging when closing the loop and finding the root cause of blockers. Makers has left me feeling ready to learn new tech stacks and take on new challenges.
+Interpreting a brief and building an app from start to finish is a fundamental aspect of coding that I enjoy. My organised, clear-sighted approach helps in debugging when closing the loop and finding the root cause of blockers. Makers has left me feeling ready to learn new tech stacks and take on new challenges.
 
 
 ## Tech Stack
