@@ -72,7 +72,6 @@ Interpreting a brief and building an app from start to finish is a fundamental a
 ## Education
 
 2021 | Full-Stack Engineering Bootcamp - **Makers Academy** (remote) <br> 
-2021 | Responsive Web Design - **freecodecamp** (online) <br>
 2021 | Building AI, Intermediate Coding Certificate in Python - **University of Helsinki and Reaktor** (online) <br>
 2011 | Bachelor of Arts: 2.1 English Literature and History of Art - **University of Sussex**, Brighton<br>
 2008 | Foundation Diploma in Art and Design: Distinction - **Central Saint Martins**, London<br>
