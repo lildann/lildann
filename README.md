@@ -24,5 +24,4 @@ The Makers course focused on pair programming, test driven development, Agile pr
 | **[Rock Paper Scissor](https://github.com/lildann/rock-paper-scissor)** | Rock Paper Scissor game | solo-project | Ruby, Sinatra, RSpec, Capybara |
 | **[Takeaway](https://github.com/lildann/takeaway-challenge)**| A Command Line app allowing users to select dishes from a menu and place an order, integrated with Twilio API to send confirmation texts | 2-day solo project | Ruby, RSpec, Rubocop |
 
-Get in touch via [LinkedIn](https://www.linkedin.com/in/lilly-daniell-62bba152/) or check out my [CV](https://github.com/lildann/cv)
 
