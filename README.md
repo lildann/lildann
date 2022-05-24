@@ -4,7 +4,7 @@
 
 ## About
 
-Software Engineer at EngineerBetter. Graduate of [Makers Academy](https://makers.tech/) software engineering bootcamp November 2021. 
+Software Engineer at [EngineerBetter](https://www.engineerbetter.com/). Graduate of [Makers Academy](https://makers.tech/) software engineering bootcamp November 2021. 
 
 ## Projects
 
